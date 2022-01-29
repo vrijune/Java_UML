@@ -2,6 +2,7 @@ Industry Lab 6a: UML
 ======
 ### Git Repository
 
+Exercise on paper
 
 ## UML Diagramming Tools
 For creating and modifying UML diagrams, there are different tools available online. You may use any tool you like to draw diagrams in this course. Here are some example tools that you can use:
